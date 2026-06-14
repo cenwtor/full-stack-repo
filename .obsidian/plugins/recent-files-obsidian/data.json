@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "Advance",
+      "path": "Teach/Advance.md"
+    },
+    {
+      "basename": "Why JWT (Token)",
+      "path": "Programming/JWT/Why JWT (Token).md"
+    },
+    {
+      "basename": "JWT (Token)",
+      "path": "Programming/JWT/JWT (Token).md"
+    },
+    {
+      "basename": "jwt-structure",
+      "path": "Images/jwt-structure.png"
+    },
+    {
+      "basename": "DateTimeExtensions",
+      "path": "Programming/DateTimeExtensions.md"
+    },
+    {
+      "basename": "BaseApiController",
+      "path": "Programming/BaseApiController.md"
+    },
+    {
+      "basename": "Git - Auto-sync",
+      "path": "OS & More/Obsidian/Git - Auto-sync.md"
+    },
+    {
+      "basename": "Plugins",
+      "path": "OS & More/Obsidian/Plugins.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}
