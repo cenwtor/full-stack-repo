@@ -3,7 +3,7 @@ Click here to see [[Why JWT (Token)]]
 NOTE: **Token is set in `API` level**
 
 #### Create and Use Token
-- [x] **Command Palette** => **Nuget Gallery** => Install `Microsoft.AspNetCore.Authentication.JwtBearer`
+- [ ] **Command Palette** => **Nuget Gallery** => Install `Microsoft.AspNetCore.Authentication.JwtBearer`
 
 - [ ] In `IdentityServiceExtensions.cs` add this code
 ```C#
